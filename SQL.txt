@@ -1,0 +1,16 @@
+CREATE DATABASE issdtp42023;
+USE issdtp42023;
+
+
+CREATE TABLE Aerolineas (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(100) NOT NULL
+);
+
+
+CREATE TABLE Vuelos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    numeroVuelo INT NOT NULL,
+    idAerolinea INT,
+    FOREIGN KEY (idAerolinea) REFERENCES Aerolineas(id)
+);

@@ -1,0 +1,11 @@
+﻿9/10/2024 22:31:34: Insertar - Aerolíneas Cale
+9/10/2024 22:31:53: Insertar - Aerolíneas Cale Nueva
+9/10/2024 22:37:21: Insertar - Aerolíneas Lisandro
+9/10/2024 22:39:48: Insertar - Aerolínea test
+9/10/2024 22:46:03: Insertar - Aerolínea test
+9/10/2024 22:46:21: Insertar - Aerolínea test
+9/10/2024 22:46:23: Insertar - Aerolínea test
+9/10/2024 22:52:47: Insertar - Aerolineas Fufi
+9/10/2024 22:57:16: Insertar - Aerolíneas ISSD 
+9/10/2024 23:05:33: Insertar - Aerolíneas Martinez
+9/10/2024 23:21:42: Insertar - Aerolíneas Juarez
